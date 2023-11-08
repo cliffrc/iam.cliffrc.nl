@@ -1,6 +1,9 @@
 This was a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-It was
+This particular iteration is from Bytegrad's 7 hour tutorial:
+
+- [Fresh React Portfolio Website (Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)](https://www.youtube.com/watch?v=sUKptmUVIBM)
+- [ByteGrad/portfolio-website](https://github.com/ByteGrad/portfolio-website/)
 
 ## Getting Started
 
