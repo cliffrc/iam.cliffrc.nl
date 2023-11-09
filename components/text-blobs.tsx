@@ -4,6 +4,14 @@ export function AboutMeText(): React.ReactNode {
   return (
     <>
       <p className="mb-3">
+        I have worked in a large variety of companies from airlines to
+        housing associations and the Dutch postal service. Coding has been
+        a passionate interest for a long time. Without access to programs,
+        I put off the dream. Instead supported my wife's career goals, and
+        tinkered away with Linux and computer boxen.
+        <br />
+        ... HELP me.
+        <br />
         After graduating with a degree in{" "}
         <span className="font-medium">Accounting</span>, I decided to
         pursue my passion for programming. I enrolled in a coding bootcamp
