@@ -11,8 +11,8 @@ import ThemeSwitch from "@/components/theme-switch";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ricardo | Portfolio",
-  description: "Ricardo is an accomplished web developer",
+  title: "Cliff | Portfolio",
+  description: "Cliff is an entrpreneur and creative web developer",
 };
 
 export default function RootLayout({
