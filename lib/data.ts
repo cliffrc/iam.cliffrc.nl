@@ -71,7 +71,7 @@ export const projectsData = [
   {
     title: "10strata",
     description:
-      "AI Helpers and AI Prompting: both an emergent and rapidly changing field ...",
+      "AI Helpers and AI Prompting: both an emergent and rapidly changing field ... . As mental health awareness increases, along with the demand on individual performance, bots to help in task-switching areas ... .",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
